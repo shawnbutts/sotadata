@@ -1,2 +1,4 @@
 # sotadata
-Shroud of the Avatar (SotA) data
+Shroud of the Avatar (SotA) Item/Crafting data
+
+
