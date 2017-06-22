@@ -1,0 +1,10 @@
+{
+  "Name": "Focus Potion",
+  "Ingredients": {
+    "Mandrake Root": 10,
+    "Sulfurous Ash": 3,
+    "Empty Flask": 3,
+    "Mortar and Pestle": 1
+  },
+  "Yield": 3
+}

@@ -1,0 +1,10 @@
+{
+  "Name": "Dagger",
+  "Ingredients": {
+    "Metal Dagger Blade": 1,
+    "Metal Hilt": 1,
+    "Chunk of Coal": 3,
+    "Smithing Hammer": 1
+  },
+  "Yield": 1
+}

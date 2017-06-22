@@ -1,0 +1,10 @@
+{
+  "Name": "Sow Seed",
+  "Ingredients": {
+    "Bucket of Water": 1,
+    "Seed": 1,
+    "Optional fertilizer": 0,
+    "Hoe": 1
+  },
+  "Yield": 1
+}

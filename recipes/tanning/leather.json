@@ -1,0 +1,9 @@
+{
+  "Name": "Leather",
+  "Ingredients": {
+    "Animal Hide": 2,
+    "Curing Salt": 2,
+    "Tanning Knife": 1
+  },
+  "Yield": 1
+}

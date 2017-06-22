@@ -1,0 +1,13 @@
+{
+  "Name": "Bark Bread",
+  "Ingredients": {
+    "Chunk of Coal": 1,
+    "Sack of Flour": 2,
+    "Jar of Yest Culture": 1,
+    "Butter": 1,
+    "Sack of Salt": 1,
+    "Maple or Pine Bark": 4,
+    "Cooking Pot": 1
+  },
+  "Yield": 1
+}

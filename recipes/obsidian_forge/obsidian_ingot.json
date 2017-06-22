@@ -1,0 +1,10 @@
+{
+  "Name": "Obsidian Ingot",
+  "Ingredients": {
+    "Chunk of Coal": 5,
+    "Obsidian Chip": 100,
+    "Ingot Mold": 1,
+    "Smithing Hammer": 1
+  },
+  "Yield": 1
+}
