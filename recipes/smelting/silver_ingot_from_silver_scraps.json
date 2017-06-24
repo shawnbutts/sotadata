@@ -1,0 +1,11 @@
+{
+  "Name": "Silver Ingot from Silver Scraps",
+  "Ingredients": {
+    "Chunk of Coal": 1,
+    "Silver Ore": 1,
+    "Silver Scrap": 12,
+    "Ingot Mold": 1,
+    "Smelting Tongs": 1
+  },
+  "Yield": 1
+}
