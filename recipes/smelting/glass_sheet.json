@@ -1,0 +1,10 @@
+{
+  "Name": "Glass Sheet",
+  "Ingredients": {
+    "Chunk of Coal": 1,
+    "Gem fragment": 25,
+    "Sheet Mold": 1,
+    "Smelting Tongs": 1
+  },
+  "Yield": 1
+}

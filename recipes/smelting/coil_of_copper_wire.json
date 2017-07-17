@@ -1,0 +1,10 @@
+{
+  "Name": "Coil of Copper Wire",
+  "Ingredients": {
+    "Chunk of Coal": 1,
+    "Copper Ingot": 2,
+    "Wire Mold": 1,
+    "Smelting Tongs": 1
+  },
+  "Yield": 1
+}
