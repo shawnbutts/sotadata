@@ -1,0 +1,11 @@
+{
+  "Name": "Iron Ingot from Metal Scraps",
+  "Ingredients": {
+    "Chunk of Coal": 1,
+    "Iron Ore": 2,
+    "Metal Scrap": 12,
+    "Ingot Mold": 1,
+    "Smelting Tongs": 1
+  },
+  "Yield": 1
+}

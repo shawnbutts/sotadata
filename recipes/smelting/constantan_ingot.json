@@ -1,0 +1,11 @@
+{
+  "Name": "Constantan Ingot",
+  "Ingredients": {
+    "Chunk of Coal": 1,
+    "Copper Ingot": 2,
+    "Nickel": 2,
+    "Ingot Mold": 1,
+    "Smelting Tongs": 1
+  },
+  "Yield": 1
+}

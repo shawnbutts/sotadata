@@ -1,0 +1,12 @@
+{
+  "Name": "White Iron Ingot",
+  "Ingredients": {
+    "Chunk of Coal": 1,
+    "Iron Ingot": 2,
+    "Tin": 1,
+    "Tungsten": 1,
+    "Ingot Mold": 1,
+    "Smelting Tongs": 1
+  },
+  "Yield": 1
+}

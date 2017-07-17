@@ -1,0 +1,11 @@
+{
+  "Name": "Gold Ingot from Gold Scraps",
+  "Ingredients": {
+    "Chunk of Coal": 1,
+    "Gold Ore": 1,
+    "Gold Scrap": 12,
+    "Ingot Mold": 1,
+    "Smelting Tongs": 1
+  },
+  "Yield": 1
+}
