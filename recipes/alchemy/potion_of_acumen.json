@@ -1,0 +1,10 @@
+{
+  "Name": "Potion of Acumen",
+  "Ingredients": {
+    "Spider Silk": 5,
+    "Mandrake Root": 5,
+    "Lich Skull": 1,
+    "Mortar and Pestle": 1
+  },
+  "Yield": 3
+}

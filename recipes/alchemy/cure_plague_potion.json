@@ -1,0 +1,10 @@
+{
+  "Name": "Cure Plague Potion",
+  "Ingredients": {
+    "Garlic": 10,
+    "Corpse Wax": 5,
+    "Empty Flask": 3,
+    "Mortar and Pestle": 1
+  },
+  "Yield": 3
+}

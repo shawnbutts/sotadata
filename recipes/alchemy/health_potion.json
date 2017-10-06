@@ -1,0 +1,10 @@
+{
+  "Name": "Health Potion",
+  "Ingredients": {
+    "Garlic": 10,
+    "Corpse": 3,
+    "Empty Flask": 3,
+    "Mortar and Pestle": 1
+  },
+  "Yield": 3
+}

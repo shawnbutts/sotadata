@@ -1,0 +1,10 @@
+{
+  "Name": "Potion of Regeneration",
+  "Ingredients": {
+    "Garlic": 20,
+    "Corpse Wax": 10,
+    "Troll Head": 1,
+    "Mortar and Pestle": 1
+  },
+  "Yield": 3
+}

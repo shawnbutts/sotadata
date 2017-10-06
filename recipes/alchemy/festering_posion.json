@@ -1,0 +1,10 @@
+{
+  "Name": "Poison, Festering",
+  "Ingredients": {
+    "Nightshade": 5,
+    "Rotten Flesh": 3,
+    "Empty Flask": 3,
+    "Mortar and Pestle": 1
+  },
+  "Yield": 3
+}

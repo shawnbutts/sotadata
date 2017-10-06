@@ -1,0 +1,10 @@
+{
+  "Name": "Poison Potion",
+  "Ingredients": {
+    "Nightshade": 8,
+    "Corpse Wax": 8,
+    "Empty Flask": 3,
+    "Mortar and Pestle": 1
+  },
+  "Yield": 3
+}

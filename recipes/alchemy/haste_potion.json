@@ -1,0 +1,9 @@
+{
+  "Name": "Haste Potion",
+  "Ingredients": {
+    "Sulfurous Ash": 8,
+    "Mandrake Root": 8,
+    "Mortar and Pestle": 1
+  },
+  "Yield": 3
+}

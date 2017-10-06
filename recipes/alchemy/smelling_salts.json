@@ -1,0 +1,11 @@
+{
+  "Name": "Smelling Salts",
+  "Ingredients": {
+    "Creosote": 2,
+    "Sack of Salt": 10,
+    "Curing Salt": 10,
+    "Empty Flask": 3,
+    "Mortar and Pestle": 1
+  },
+  "Yield": 3
+}

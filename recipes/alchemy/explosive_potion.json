@@ -1,0 +1,10 @@
+{
+  "Name": "Explosive Potion",
+  "Ingredients": {
+    "Sulfurous Ash": 10,
+    "Black Pearl": 5,
+    "Empty Flask": 3,
+    "Mortar and Pestle": 1
+  },
+  "Yield": 3
+}
