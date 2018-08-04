@@ -10,7 +10,7 @@ Inside  time: 240 hours
 
 Outside time: 48 hours  
 Greenhouse time: 24 hours  
-Inside time: 48 hours  
+Inside time: 480 hours  
 
 ***Slow***
 
