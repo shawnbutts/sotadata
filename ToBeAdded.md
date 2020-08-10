@@ -29,13 +29,7 @@
     - Requires Stand Your Ground (Level 80)
 
 **Crafting**
-
-# Mining
-- Mining
-- Survey - Mining
-- Swift Gathering - Mining
-- Meticulous Collection - Minig
-
+1
 # Forestry
 - Forestry
 - Survey
@@ -136,3 +130,11 @@
 - Alchemy Mastery
 - Weapon Enchantment
 - Armor Enchantment
+
+**Completed**
+
+# Mining
+- Mining
+- Survey - Mining
+- Swift Gathering - Mining
+- Meticulous Collection - Mining
