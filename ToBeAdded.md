@@ -29,7 +29,7 @@
     - Requires Stand Your Ground (Level 80)
 
 **Crafting**
-1
+
 # Forestry
 - Forestry
 - Survey
