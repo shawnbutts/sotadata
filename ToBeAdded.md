@@ -30,29 +30,6 @@
 
 **Crafting**
 
-# Milling
-- Milling
-- Batching Materials
-- Swift Refine Materials
-- Efficient Refine Materials
-
-# Textiles
-- Textiles
-- Batching Materials
-- Swift Refine Materials
-- Efficient Refine Materials
-
-# Agriculture
-- Water Plants
-- Sow Seeds Bonus
-- Harvest Plants
-
-# Tanning
-- Tanning
-- Batching Materials
-- Swift Refine Materials
-- Efficient Refine Materials
-
 # Blacksmithing
 - Blacksmithing
 - Blacksmithing Repair
@@ -135,6 +112,29 @@
 
 # Smelting
 - Smelting
+- Batching Materials
+- Swift Refine Materials
+- Efficient Refine Materials
+
+# Agriculture
+- Water Plants
+- Sow Seeds Bonus
+- Harvest Plants
+
+# Milling
+- Milling
+- Batching Materials
+- Swift Refine Materials
+- Efficient Refine Materials
+
+# Textiles
+- Textiles
+- Batching Materials
+- Swift Refine Materials
+- Efficient Refine Materials
+
+# Tanning
+- Tanning
 - Batching Materials
 - Swift Refine Materials
 - Efficient Refine Materials
