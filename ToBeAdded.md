@@ -30,44 +30,6 @@
 
 **Crafting**
 
-# Forestry
-- Forestry
-- Survey
-- Swift Gathering
-- Meticulous Collection
-
-# Fishing
-- Fishing
-- Bait Recovery
-- Freshwater Fishing
-- Fetid Water Fishing
-- Saltwater Fishing
-- Lava Fishing
-
-# Field Dressing
-- Field Dressing
-- Survey
-- Swift Gathering
-- Meticulous Collection
-
-# Foraging
-- Foraging 
-- Survey
-- Swift Gathering
-- Meticulous Collection
-
-# Butchery
-- Butchery
-- Batching Materials
-- Swift Refine Materials
-- Efficient Refine Materials
-
-# Smelting
-- Smelting
-- Batching Materials
-- Swift Refine Materials
-- Efficient Refine Materials
-
 # Milling
 - Milling
 - Batching Materials
@@ -90,9 +52,6 @@
 - Batching Materials
 - Swift Refine Materials
 - Efficient Refine Materials
-
-# Cooking
-- Cooking
 
 # Blacksmithing
 - Blacksmithing
@@ -138,3 +97,44 @@
 - Survey - Mining
 - Swift Gathering - Mining
 - Meticulous Collection - Mining
+
+# Forestry
+- Forestry
+- Survey - Forestry
+- Swift Gathering - Forestry
+- Meticulous Collection - Forestry
+
+# Cooking
+- Cooking
+
+# Fishing
+- Fishing
+- Bait Recovery
+- Freshwater Fishing
+- Fetid Water Fishing
+- Saltwater Fishing
+- Lava Fishing
+
+# Field Dressing
+- Field Dressing
+- Survey
+- Swift Gathering
+- Meticulous Collection
+
+# Foraging
+- Foraging 
+- Survey
+- Swift Gathering
+- Meticulous Collection
+
+# Butchery
+- Butchery
+- Batching Materials
+- Swift Refine Materials
+- Efficient Refine Materials
+
+# Smelting
+- Smelting
+- Batching Materials
+- Swift Refine Materials
+- Efficient Refine Materials
