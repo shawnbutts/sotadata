@@ -30,18 +30,6 @@
 
 **Crafting**
 
-# Field Dressing
-- Field Dressing
-- Survey
-- Swift Gathering
-- Meticulous Collection
-
-# Foraging
-- Foraging 
-- Survey
-- Swift Gathering
-- Meticulous Collection
-
 # Butchery
 - Butchery
 - Batching Materials
@@ -138,3 +126,15 @@
 - Fetid Water Fishing
 - Saltwater Fishing
 - Lava Fishing
+
+# Field Dressing
+- Field Dressing
+- Survey
+- Swift Gathering
+- Meticulous Collection
+
+# Foraging
+- Foraging 
+- Survey
+- Swift Gathering
+- Meticulous Collection
