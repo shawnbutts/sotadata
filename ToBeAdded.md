@@ -30,18 +30,6 @@
 
 **Crafting**
 
-# Butchery
-- Butchery
-- Batching Materials
-- Swift Refine Materials
-- Efficient Refine Materials
-
-# Smelting
-- Smelting
-- Batching Materials
-- Swift Refine Materials
-- Efficient Refine Materials
-
 # Milling
 - Milling
 - Batching Materials
@@ -138,3 +126,15 @@
 - Survey
 - Swift Gathering
 - Meticulous Collection
+
+# Butchery
+- Butchery
+- Batching Materials
+- Swift Refine Materials
+- Efficient Refine Materials
+
+# Smelting
+- Smelting
+- Batching Materials
+- Swift Refine Materials
+- Efficient Refine Materials
