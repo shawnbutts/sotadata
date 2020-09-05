@@ -28,17 +28,11 @@
 - Shield Specialization
     - Requires Stand Your Ground (Level 80)
 
-**Crafting**
 
-# Carpentry
-- Carpentry
-- Carpentry Repair
-- Carpentry Salvage
-- Carpentry Masterwork
-- Carpentry Mastery
-- Masterwork Bludgeon Weapon
-- Masterwork Polearm Weapon
-- Masterwork Ranged Weapon
+
+**Completed**
+
+**Crafting**
 
 # Tailoring
 - Tailoring
@@ -48,8 +42,6 @@
 - Tailoring Mastery
 - Masterwork Leather Armor
 - Masterwork Cloth Armor
-
-**Completed**
 
 # Mining
 - Mining
@@ -138,3 +130,13 @@
 - Masterwork Plate Armor
 - Masterwork Chain Armor
 - Masterwork Shield
+
+# Carpentry
+- Carpentry
+- Carpentry Repair
+- Carpentry Salvage
+- Carpentry Masterwork
+- Carpentry Mastery
+- Masterwork Bludgeon Weapon
+- Masterwork Polearm Weapon
+- Masterwork Ranged Weapon
