@@ -30,17 +30,6 @@
 
 **Crafting**
 
-# Blacksmithing
-- Blacksmithing
-- Blacksmithing Repair
-- Blacksmithing Salvage
-- Blacksmithing Masterwork
-- Blacksmithing Mastery
-- Masterwork Blade Weapon
-- Masterwork Plate Armor
-- Masterwork Chain Armor
-- Masterwork Shield
-
 # Carpentry
 - Carpentry
 - Carpentry Repair
@@ -59,13 +48,6 @@
 - Tailoring Mastery
 - Masterwork Leather Armor
 - Masterwork Cloth Armor
-
-# Alchemy
-- Alchemy
-- Enchantment
-- Alchemy Mastery
-- Weapon Enchantment
-- Armor Enchantment
 
 **Completed**
 
@@ -138,3 +120,21 @@
 - Batching Materials
 - Swift Refine Materials
 - Efficient Refine Materials
+
+# Alchemy
+- Alchemy
+- Enchantment
+- Alchemy Mastery
+- Weapon Enchantment
+- Armor Enchantment
+
+# Blacksmithing
+- Blacksmithing
+- Blacksmithing Repair
+- Blacksmithing Salvage
+- Blacksmithing Masterwork
+- Blacksmithing Mastery
+- Masterwork Blade Weapon
+- Masterwork Plate Armor
+- Masterwork Chain Armor
+- Masterwork Shield
